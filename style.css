@@ -1,0 +1,25 @@
+#jumbotron {
+    padding-top: 2rem;
+    background-color: #ffffff94;
+    font-family: montserrat;
+}
+
+#about {
+    background-color: #3e265260;
+    font-family: roboto;
+}
+
+#media {
+    background-color: #ffffff71;
+    font-family: roboto;
+}
+
+#hobby {
+    background-color: #ffffff86;
+    font-family: roboto;
+}
+
+#footer {
+    background-color: #20102c60;
+    font-family: poppins;
+}
